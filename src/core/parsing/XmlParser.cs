@@ -10,5 +10,10 @@ namespace DevIct.PublicMeetings.Data.Core.Parsing
         {
             throw new System.NotImplementedException();
         }
+
+        public void IncludeFields(FieldMap fields)
+        {
+            throw new System.NotImplementedException();
+        }
     }
 }
